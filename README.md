@@ -35,8 +35,7 @@ The system estimates glucose concentration based on skin absorption properties, 
 
 ---
 
-## � Current Progress
--  Hardware prototype assembled and functional.  
+##  Current Progress 
 -  Initial skin-based measurements collected.  
 -  Basic signal processing pipeline implemented.  
 -  Improving calibration accuracy with reference data.  
